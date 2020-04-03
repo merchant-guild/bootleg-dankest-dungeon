@@ -22,12 +22,12 @@ import javax.swing.JProgressBar;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/*
- * t¯Ìda hra by v sobÏ nemÏla mÌt combat, combat a s nÌm spojenÈ vykreslov·nÌ by mÏla b˝t vlastnÌ t¯Ìda vol·na st¯Ìdou hra kdyû v dungeonu narazÌö na nep¯·tele
+/*i love cock and ball torture
+ * t√∏√≠da hra by v sob√¨ nem√¨la m√≠t combat, combat a s n√≠m spojen√© vykreslov√°n√≠ by m√¨la b√Ωt vlastn√≠ t√∏√≠da vol√°na st√∏√≠dou hra kdy≈æ v dungeonu naraz√≠≈° na nep√∏√°tele
  * (pokud tam ten dungeon bude)
- * vöechni hrdinovÈ a nep¯·telÈ dÏdÌ z postavy
- * postavy se inicializujÌ na zaË·tku boje a majÌ svoje pozice podle kter˝ch se nÏjak urËuje na koho mÌ¯Ì ˙toky, jeötÏ nevÌm jak
- * uû jsem dnes lÌn˝ a posÌl·m ti tento polotovar
+ * v≈°echni hrdinov√© a nep√∏√°tel√© d√¨d√≠ z postavy
+ * postavy se inicializuj√≠ na za√®√°tku boje a maj√≠ svoje pozice podle kter√Ωch se n√¨jak ur√®uje na koho m√≠√∏√≠ √∫toky, je≈°t√¨ nev√≠m jak
+ * u≈æ jsem dnes l√≠n√Ω a pos√≠l√°m ti tento polotovar
  */
 public class Hra extends JFrame implements MouseListener, Runnable{
 	 static ImageIcon utok = new ImageIcon("C:\\moje\\sword.png");
@@ -383,7 +383,7 @@ class Kostlivec1 extends JPanel  {
 	g2.setColor(Color.WHITE);
 		g2.fillOval(120-50,100, 100, 100);//hlava
 		g2.fillRect(160-50, 180, 20, 150);//pater
-		g2.fillRect(120-50, 230, 100, 10);//ûebra
+		g2.fillRect(120-50, 230, 100, 10);//≈æebra
 		g2.fillRect(120-50, 260, 100, 10);
 		g2.fillRect(120-50, 290, 100, 10);
 		g2.fillRect(190-50, 390, 20, 80);//nohy
@@ -454,7 +454,7 @@ class Kostlivec2 extends JPanel  {
 		g2.setColor(Color.WHITE);
 		g2.fillOval(120-50,100, 100, 100);//hlava
 		g2.fillRect(160-50, 180, 20, 150);//pater
-		g2.fillRect(120-50, 230, 100, 10);//ûebra
+		g2.fillRect(120-50, 230, 100, 10);//≈æebra
 		g2.fillRect(120-50, 260, 100, 10);
 		g2.fillRect(120-50, 290, 100, 10);
 		g2.fillRect(190-50, 390, 20, 80);//nohy
@@ -525,7 +525,7 @@ class Kostlivec3 extends JPanel  {
 		g2.setColor(Color.WHITE);
 		g2.fillOval(120-50,100, 100, 100);//hlava
 		g2.fillRect(160-50, 180, 20, 150);//pater
-		g2.fillRect(120-50, 230, 100, 10);//ûebra
+		g2.fillRect(120-50, 230, 100, 10);//≈æebra
 		g2.fillRect(120-50, 260, 100, 10);
 		g2.fillRect(120-50, 290, 100, 10);
 		g2.fillRect(190-50, 390, 20, 80);//nohy
@@ -597,7 +597,7 @@ class Kostlivec4 extends JPanel  {
 		g2.setColor(Color.WHITE);
 		g2.fillOval(120-50,100, 100, 100);//hlava
 		g2.fillRect(160-50, 180, 20, 150);//pater
-		g2.fillRect(120-50, 230, 100, 10);//ûebra
+		g2.fillRect(120-50, 230, 100, 10);//≈æebra
 		g2.fillRect(120-50, 260, 100, 10);
 		g2.fillRect(120-50, 290, 100, 10);
 		g2.fillRect(190-50, 390, 20, 80);//nohy
